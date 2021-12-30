@@ -1,0 +1,542 @@
+[
+  {
+    "id": 8,
+    "title": "RFT Colormat 4506",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaoszone",
+    "image": "badge-8.png"
+  },
+  {
+    "id": 23,
+    "title": "Visited FIXME Hackerspace",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "FIXME Hackerspace",
+    "image": "badge-23.png"
+  },
+  {
+    "id": 24,
+    "title": "Visited \u03bcBerghain",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "FIXME Hackerspace",
+    "image": "badge-24.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Visited the Construct",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "FIXME Hackerspace",
+    "image": "badge-25.png"
+  },
+  {
+    "id": 63,
+    "title": "/bin/Boot/fahren",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "/bin/hacken",
+    "image": "badge-63.png"
+  },
+  {
+    "id": 68,
+    "title": "Numberwang-PCB",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Numberwang",
+    "image": "badge-68.png"
+  },
+  {
+    "id": 41,
+    "title": "horny jail",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "horny jail",
+    "image": "badge-41.jpg"
+  },
+  {
+    "id": 74,
+    "title": "/bin/spacehuhn/begegnet",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "/bin/hacken",
+    "image": "badge-74.png"
+  },
+  {
+    "id": 93,
+    "title": "Halbziit",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CCC Basel",
+    "image": "badge-93.png"
+  },
+  {
+    "id": 78,
+    "title": "Played Multiplayer Snake",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Rust Lang Assembly",
+    "image": "badge-78.png"
+  },
+  {
+    "id": 92,
+    "title": "Gr\u00fcezi mitenand!",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CCC Basel",
+    "image": "badge-92.png"
+  },
+  {
+    "id": 106,
+    "title": "Visited CERT!",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CERT",
+    "image": "badge-106.png"
+  },
+  {
+    "id": 118,
+    "title": "I visited the museum",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Museum of Status Codes",
+    "image": "badge-118.png"
+  },
+  {
+    "id": 117,
+    "title": "418 Tea Party",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Museum of Status Codes",
+    "image": "badge-117.png"
+  },
+  {
+    "id": 113,
+    "title": "I did visit the c-base",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "c-base",
+    "image": "badge-113.png"
+  },
+  {
+    "id": 96,
+    "title": "O Tannenbaum, o Tannenbaum, wie gr\u00fcn sind deine Bl\u00e4tter!",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Lebkuch.is",
+    "image": "badge-96.png"
+  },
+  {
+    "id": 90,
+    "title": "RaCCClette",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CCC Basel",
+    "image": "badge-90.png"
+  },
+  {
+    "id": 94,
+    "title": "Basler L\u00e4ckerli-Lauf",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CCC Basel",
+    "image": "badge-94.png"
+  },
+  {
+    "id": 146,
+    "title": "The Only True OS",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Vatican Embassy",
+    "image": "badge-146.png"
+  },
+  {
+    "id": 183,
+    "title": "Free-Software Song Backstage Badge",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "F-Droid",
+    "image": "badge-183.png"
+  },
+  {
+    "id": 177,
+    "title": "Physikeinsatz",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaotisch Inkorrekt!",
+    "image": "badge-177.png"
+  },
+  {
+    "id": 200,
+    "title": "Found an empty chest",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "The Money Bin",
+    "image": "badge-200.png"
+  },
+  {
+    "id": 188,
+    "title": "endlich werbefrei!",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "(Forum) Adblock In Real Life",
+    "image": "badge-188.png"
+  },
+  {
+    "id": 179,
+    "title": "Peddler eliminator",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "The Money Bin",
+    "image": "badge-179.png"
+  },
+  {
+    "id": 205,
+    "title": "visit Chaoszone underground",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaoszone",
+    "image": "badge-205.png"
+  },
+  {
+    "id": 198,
+    "title": "Triggered a mine",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "The Money Bin",
+    "image": "badge-198.png"
+  },
+  {
+    "id": 209,
+    "title": "Kurbeln statt Schwurbeln",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaotisch Inkorrekt!",
+    "image": "badge-209.png"
+  },
+  {
+    "id": 265,
+    "title": "The first dime",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "The Money Bin",
+    "image": "badge-265.png"
+  },
+  {
+    "id": 237,
+    "title": "mask",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "FraMa",
+    "image": "badge-237.png"
+  },
+  {
+    "id": 226,
+    "title": "Black Anarchy Sticker",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Anarchist Village",
+    "image": "badge-226.png"
+  },
+  {
+    "id": 254,
+    "title": "Kicker-Champion",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Alles.Anz\u00fcnden.Jetzt",
+    "image": "badge-254.png"
+  },
+  {
+    "id": 225,
+    "title": "Sold some oil shares",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "The Money Bin",
+    "image": "badge-225.png"
+  },
+  {
+    "id": 250,
+    "title": "Schachprofi",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Alles.Anz\u00fcnden.Jetzt",
+    "image": "badge-250.png"
+  },
+  {
+    "id": 264,
+    "title": "Rust Visitor",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Rust Lang Assembly",
+    "image": "badge-264.png"
+  },
+  {
+    "id": 257,
+    "title": "franconian_ctf_3",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Franconian.net",
+    "image": "badge-257.png"
+  },
+  {
+    "id": 259,
+    "title": "franconian_ctf_5",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Franconian.net",
+    "image": "badge-259.png"
+  },
+  {
+    "id": 258,
+    "title": "franconian_ctf_4",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Franconian.net",
+    "image": "badge-258.png"
+  },
+  {
+    "id": 224,
+    "title": "Bought some railroad shares",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "The Money Bin",
+    "image": "badge-224.png"
+  },
+  {
+    "id": 222,
+    "title": "Found an old receipt",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "The Money Bin",
+    "image": "badge-222.png"
+  },
+  {
+    "id": 288,
+    "title": "ChaosZone Wintermarkt*",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaoszone",
+    "image": "badge-288.png"
+  },
+  {
+    "id": 318,
+    "title": "cyBar",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaoszone",
+    "image": "badge-318.png"
+  },
+  {
+    "id": 328,
+    "title": "more than a rabbit",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaoszone",
+    "image": "badge-328.png"
+  },
+  {
+    "id": 326,
+    "title": "Irish Hackerspaces",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Irish Embassy",
+    "image": "badge-326.png"
+  },
+  {
+    "id": 340,
+    "title": "Visited flipdot e.V.",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "flipdot e.V.",
+    "image": "badge-340.png"
+  },
+  {
+    "id": 350,
+    "title": "Secret blueprints",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "The Money Bin",
+    "image": "badge-350.png"
+  },
+  {
+    "id": 464,
+    "title": "Boom! Vacshot!",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaotisch Inkorrekt!",
+    "image": "badge-464.png"
+  },
+  {
+    "id": 447,
+    "title": "Repaired ticker",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "The Money Bin",
+    "image": "badge-447.png"
+  },
+  {
+    "id": 400,
+    "title": "Engelsimulator",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Rust Lang Assembly",
+    "image": "badge-400.png"
+  },
+  {
+    "id": 406,
+    "title": "Receipts from movie theaters",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "The Money Bin",
+    "image": "badge-406.png"
+  },
+  {
+    "id": 452,
+    "title": "Space flight simulator pilot",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "ICMP",
+    "image": "badge-452.png"
+  },
+  {
+    "id": 420,
+    "title": "The parrot",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "The Money Bin",
+    "image": "badge-420.png"
+  },
+  {
+    "id": 425,
+    "title": "Rubber duckie",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "The Money Bin",
+    "image": "badge-425.png"
+  },
+  {
+    "id": 448,
+    "title": "hackzogtum",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Franconian.net",
+    "image": "badge-448.png"
+  },
+  {
+    "id": 379,
+    "title": "F-Droid Assembly Visitor Pass",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "F-Droid",
+    "image": "badge-379.png"
+  },
+  {
+    "id": 480,
+    "title": "Flauscheviecher",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Sendezentrum",
+    "image": "badge-480.png"
+  },
+  {
+    "id": 481,
+    "title": "Ein Herz f\u00fcr K\u00fcken",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "private",
+    "assembly": "Sendezentrum",
+    "image": "badge-481.png"
+  },
+  {
+    "id": 478,
+    "title": "Sendezentrum Lagerfeuer",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Sendezentrum",
+    "image": "badge-478.png"
+  },
+  {
+    "id": 506,
+    "title": "NFT (non-fuckable tile)",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "horny jail",
+    "image": "badge-506.png"
+  },
+  {
+    "id": 534,
+    "title": "No Walls No Nations UNMAP THE WORLD",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "1komona",
+    "image": "badge-534.png"
+  },
+  {
+    "id": 554,
+    "title": "End|Zeit",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "lobby",
+    "image": "badge-554.png"
+  }
+]
